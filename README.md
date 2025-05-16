@@ -19,5 +19,5 @@ The system uses **relational database design principles**, including:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/naama-abucheri/student-records-system.git
+git clone https://github.com/naama-abucheri/Database.git
 cd student-records-system
